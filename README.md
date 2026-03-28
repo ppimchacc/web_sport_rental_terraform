@@ -99,3 +99,17 @@ yes
   - Email: `rattana@nu.ac.th`  
   - Password: `rattana_jaidee`
 
+---
+
+### 8. ทดลองการเช่า-คืน อุปกรณ์กีฬา
+
+---
+
+### 9. destroy ระบบ
+```bash
+terraform destroy
+```
+พิมพ์:
+```text
+yes
+```
