@@ -25,7 +25,6 @@ cd web_sport_customer
 ---
 
 ### 1. ติดตั้งเครื่องมือ
-```markdown
 - Terraform
 - AWS CLI
 - ตรวจสอบ:
